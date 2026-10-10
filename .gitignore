@@ -11,3 +11,6 @@ wheels/
 
 # Manim files
 media/
+
+# Personal Project
+voices/
