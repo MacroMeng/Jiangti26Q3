@@ -2,6 +2,10 @@
 
 使用 Manim CE 为我市的比赛制作的数学视频。
 
+## AI
+
+本项目的部分代码、脚本使用 AI 生成。部分内容可能未经过审查。
+
 ## License
 
 所有代码文件使用 MIT License。详见 [LICENSE](LICENSE)。

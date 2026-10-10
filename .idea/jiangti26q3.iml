@@ -3,10 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/media" />
     </content>
     <orderEntry type="jdk" jdkName="F:\Meng\Learning\HOMEWORK\Jiangti26Q3\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
-  <component name="PackageRequirementsSettings" />
-  <component name="ReSTService" />
 </module>
